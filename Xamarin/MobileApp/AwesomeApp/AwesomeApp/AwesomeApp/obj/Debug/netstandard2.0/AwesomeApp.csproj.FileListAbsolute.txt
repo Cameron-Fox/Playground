@@ -1,0 +1,14 @@
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csprojAssemblyReference.cache
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.CoreCompileInputs.cache
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\Users\CWF\GitHub\Cameron-Fox\Playground\Xamarin\MobileApp\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb
