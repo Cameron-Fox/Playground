@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CWF\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Users\\CWF\\GitHub\\Cameron-Fox\\Playground\\WebPages\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CWF\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Users\\CWF\\GitHub\\Cameron-Fox\\Playground\\WebPages\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CWF\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Users\\CWF\\GitHub\\Cameron-Fox\\Playground\\WebPages\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\CWF\\source\\repos\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "C:\\Users\\CWF\\GitHub\\Cameron-Fox\\Playground\\WebPages\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\CWF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CWF\\source\\repos\\RazorPagesMovie\\obj\\",
+        "outputPath": "C:\\Users\\CWF\\GitHub\\Cameron-Fox\\Playground\\WebPages\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,6 +42,26 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
